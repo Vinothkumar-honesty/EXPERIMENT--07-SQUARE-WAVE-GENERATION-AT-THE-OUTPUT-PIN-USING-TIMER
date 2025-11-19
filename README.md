@@ -235,7 +235,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![WhatsApp Image 2025-11-03 at 14 16 44_36b5e78c](https://github.com/user-attachments/assets/f7f121f3-2b0f-4599-b481-1d68b0ba3f27)
 
 
-<img width="1919" height="1198" alt="image" src="https://github.com/user-attachments/assets/fb914665-45e1-40d1-b312-a06a96f0b563" />
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
